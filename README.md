@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Frank Wang
-- 👀 I’m interested in robotic controls, hardware simulations, hardware development, and autonomous vehicles.
-- 🌱 I’m currently learning more about hardware simulations and enhancing my skills in Matlab.  
+- 👀 I’m interested in robotic controls, autonomous vehicles, software development, machine learning, and app development.
+- 🌱 Stay tuned for more projects being uploaded to my git.  
 
 <!---
 Frank922/Frank922 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
